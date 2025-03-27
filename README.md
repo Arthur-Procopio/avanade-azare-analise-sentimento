@@ -37,13 +37,13 @@ A ferramenta Azure Language Studio classificou o texto do livro *Five Nights at 
 | **Positivo** | 5% | 🙂 | Momentos breves de alívio |
 
 <div align="center">
-    <img src="readmeFiles/2.png" alt="Language Studio Services" width="400"/>
+    <img src="readmeFiles/2.PNG" alt="Language Studio Services" width="400"/>
 </div>
 
 Abaixo é possível observar a funcionalidade de *opinion mining* funcionando:
 
 <div align="center">
-    <img src="readmeFiles/3.png" alt="Language Studio Services" width="600"/>
+    <img src="readmeFiles/3.PNG" alt="Language Studio Services" width="600"/>
 </div>
 
 ## Conclusão e Insights
